@@ -78,9 +78,7 @@ footer a:hover {
     background-image: linear-gradient(to right,RGB(61, 220, 132), rgb(252, 191, 60) );text-decoration: underline;text-shadow: rgba(0, 0, 0, 0.219);
 }
 
-iframe.video{
-    display: block;margin: auto;padding-right: 10px 10px;
-}
+
 p {
     font-size: 1.1em;line-height: 1.5em;
 }
@@ -93,4 +91,7 @@ aside > ul {
 } 
 aside h3 {background-image: linear-gradient(to right, RGB(61, 220, 132), rgb(252, 191, 60));text-align: center;padding: 10px;border-radius: 10px 10px 0px 0px;margin: -10px -10px 0px -10px;
 
+}
+iframe.video {
+    display: block;margin: auto;
 }
