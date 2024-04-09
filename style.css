@@ -93,7 +93,7 @@ aside h3 {background-image: linear-gradient(to right, RGB(61, 220, 132), rgb(252
 
 }
 div.video {
-    background-color: var(--cor0);margin: 0px -24px 30px -24px;position: relative;padding-bottom:50% ;
+    margin: 0px -24px 30px -24px;position: relative;padding-bottom:50% ;
 }
 div.video > iframe {
 position: absolute;top:5% ;left:5% ;width: 90%;height: 90%;
